@@ -5,5 +5,5 @@ pip install opencv
 ```
 And this should work. If it didn't then just go for unofficial Python Binaries. Below is my Code Se=creenshot:
 
-<img src=""><img>
+<img src="Code_Screenshot"><img>
 Hope that you liked it.
